@@ -1,2 +1,2 @@
-# Excel_Analyst
-Analysis with the help of Excel
+Analyst
+Data analyst is proficient in extracting meaningful insights from complex datasets using statistical analysis and data manipulation techniques. Skilled in Python languages, I excel at cleaning and preprocessing data, conducting exploratory analysis, and creating visualizations and reports. Leveraging data querying and analysis tools, I apply statistical methods and machine learning algorithms to uncover actionable insights for informed decision-making. Proficient in data visualization libraries like Matplotlib and Tableau, I effectively communicate findings to non-technical stakeholders. Passionate about driving business growth through data-driven recommendations, I am dedicated to contributing to projects that rely on strategic data analysis.
